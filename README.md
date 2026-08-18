@@ -38,7 +38,7 @@ This project implements an end-to-end data preparation, cleaning, feature engine
 
 ### 3. Feature Correlation Analysis
 
-![Heat Correlation Map](./heatmap.jpeg)
+![Heat Correlation Map](./cottelation_heatmap.jpeg)
 (Extracted from the analysis notebook output)
 
 #### Key Correlation Takeaways:
